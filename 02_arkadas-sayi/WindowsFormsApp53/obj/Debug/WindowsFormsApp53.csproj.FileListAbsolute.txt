@@ -1,0 +1,9 @@
+D:\fatih\C#\repos\WindowsFormsApp53\WindowsFormsApp53\bin\Debug\WindowsFormsApp53.exe.config
+D:\fatih\C#\repos\WindowsFormsApp53\WindowsFormsApp53\bin\Debug\WindowsFormsApp53.exe
+D:\fatih\C#\repos\WindowsFormsApp53\WindowsFormsApp53\bin\Debug\WindowsFormsApp53.pdb
+D:\fatih\C#\repos\WindowsFormsApp53\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.csprojAssemblyReference.cache
+D:\fatih\C#\repos\WindowsFormsApp53\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.Form1.resources
+D:\fatih\C#\repos\WindowsFormsApp53\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.Properties.Resources.resources
+D:\fatih\C#\repos\WindowsFormsApp53\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.csproj.GenerateResource.cache
+D:\fatih\C#\repos\WindowsFormsApp53\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.exe
+D:\fatih\C#\repos\WindowsFormsApp53\WindowsFormsApp53\obj\Debug\WindowsFormsApp53.pdb
